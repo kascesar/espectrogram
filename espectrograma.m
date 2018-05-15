@@ -99,9 +99,9 @@ subplot(2,2,2);imagesc (c1, b1, log(a1));title ('Windows 125 Hrtz');
 subplot(2,2,3);imagesc (c2, b2, log(a2));title ('Windows 375 Hrtz');
 subplot(2,2,4);imagesc (c3, b3, log(a3));title ('Windows 1000 Hrtz');
 %% Conclusion
-%  vemos que mientras mas rapido pasa la ventana menos ruidoza es la vetana ya 
-%  que no ve tanto mas significativamente los los bruscos cambios que poosee esta
-%  funcion.
+%  vemos que mientras mas rapido pasa la ventana menos ruidoza es la operacion 
+%  ya que no ve tanto mas significativamente los los bruscos cambios que poosee 
+%  esta funcion.
 %% external links
 %%
 % Porfavor, acceda a la documentacion:
